@@ -1,12 +1,12 @@
 {
-  "export_job_id": "37f15ee0-cc74-4ad4-a588-531423b81c04",
+  "export_job_id": "9ff5e157-fbb2-45dc-b220-66e3b6e12841",
   "id_short": 541178,
-  "published_at": "2026-04-16T07:20:40Z",
+  "published_at": "2026-04-18T19:19:17Z",
   "repo_name": "top-30-active-restaurant-whales-in-charlotte-us-sample-541178",
   "sample_asset_name": "beamstation_541178_restaurants-us-nc_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/541178/beamstation_541178_restaurants-us-nc_SAMPLE_DIST.csv",
   "sample_records": 97,
   "sample_sha256": "2548840e9ecdc29d7a746e295f3989397806936fc9f0aa272348089f2418244c",
   "sample_size_bytes": 413131,
-  "total_records": 954
+  "total_records": 973
 }
