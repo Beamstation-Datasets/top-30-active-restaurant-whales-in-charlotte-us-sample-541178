@@ -1,6 +1,6 @@
 # Top 30% Active Restaurant Whales in Charlotte, US
 
-> Free BeamStation sample export with 49 rows and masked direct-contact fields.
+> Free BeamStation sample export with 16 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `541178` |
 | Location | Charlotte |
 | Category | Restaurants |
-| Full dataset size | 496 records |
-| Free sample size | 49 records (9.88%) |
-| Last export | 2026-04-22T02:25:28.364507+00:00 |
+| Full dataset size | 165 records |
+| Free sample size | 16 records (9.7%) |
+| Last export | 2026-04-29T05:24:28.299762+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-30-active-restaurant-whales-in-charlotte-us-sample-541178/releases/download/sample-latest/beamstation_541178_restaurants-us-nc_SAMPLE_DIST.csv) |
 
 ## What is in this sample
